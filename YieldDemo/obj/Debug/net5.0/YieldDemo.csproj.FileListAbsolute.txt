@@ -1,0 +1,16 @@
+D:\DummyProjects\Yield_Demo\YieldDemo\obj\Debug\net5.0\YieldDemo.csproj.AssemblyReference.cache
+D:\DummyProjects\Yield_Demo\YieldDemo\obj\Debug\net5.0\YieldDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DummyProjects\Yield_Demo\YieldDemo\obj\Debug\net5.0\YieldDemo.AssemblyInfoInputs.cache
+D:\DummyProjects\Yield_Demo\YieldDemo\obj\Debug\net5.0\YieldDemo.AssemblyInfo.cs
+D:\DummyProjects\Yield_Demo\YieldDemo\obj\Debug\net5.0\YieldDemo.csproj.CoreCompileInputs.cache
+D:\DummyProjects\Yield_Demo\YieldDemo\bin\Debug\net5.0\YieldDemo.exe
+D:\DummyProjects\Yield_Demo\YieldDemo\bin\Debug\net5.0\YieldDemo.deps.json
+D:\DummyProjects\Yield_Demo\YieldDemo\bin\Debug\net5.0\YieldDemo.runtimeconfig.json
+D:\DummyProjects\Yield_Demo\YieldDemo\bin\Debug\net5.0\YieldDemo.runtimeconfig.dev.json
+D:\DummyProjects\Yield_Demo\YieldDemo\bin\Debug\net5.0\YieldDemo.dll
+D:\DummyProjects\Yield_Demo\YieldDemo\bin\Debug\net5.0\ref\YieldDemo.dll
+D:\DummyProjects\Yield_Demo\YieldDemo\bin\Debug\net5.0\YieldDemo.pdb
+D:\DummyProjects\Yield_Demo\YieldDemo\obj\Debug\net5.0\YieldDemo.dll
+D:\DummyProjects\Yield_Demo\YieldDemo\obj\Debug\net5.0\ref\YieldDemo.dll
+D:\DummyProjects\Yield_Demo\YieldDemo\obj\Debug\net5.0\YieldDemo.pdb
+D:\DummyProjects\Yield_Demo\YieldDemo\obj\Debug\net5.0\YieldDemo.genruntimeconfig.cache
